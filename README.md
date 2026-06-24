@@ -50,3 +50,32 @@ Tools:
 - XGBoost
 - Matplotlib
 - Seaborn
+
+- ## IMDB Movie Reviews Sentiment Analysis
+
+Objective:
+To classify movie reviews as positive or negative using Natural Language Processing.
+
+Includes:
+- Data Loading
+- Text Cleaning
+- Text Preprocessing
+- TF-IDF Feature Extraction
+- Model Training
+- Model Evaluation
+- Sentiment Prediction
+
+Models Used:
+- Logistic Regression
+- SVM
+- Naive Bayes
+
+Tools Used:
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- NLTK
+- Jupyter Notebook
